@@ -36018,6 +36018,66 @@
     "added": null
   },
   {
+    "name": "FateJam",
+    "image": "https://cdn.imgchest.com/files/7e6cac5afe62.gif",
+    "source": "The-Kinoplex",
+    "added": "2026-10-15"
+  },
+  {
+    "name": "TIEDTOTHISFUCKINGCHAIR",
+    "image": "https://cdn.imgchest.com/files/c40c3d98817f.webp",
+    "source": "The-Kinoplex",
+    "added": "2026-10-15"
+  },
+  {
+    "name": "ThingFlamethrower",
+    "image": "https://cdn.imgchest.com/files/ab82681c10c9.webp",
+    "source": "The-Kinoplex",
+    "added": "2026-10-15"
+  },
+  {
+    "name": "FatFall",
+    "image": "https://cdn.imgchest.com/files/8482ae123d60.gif",
+    "source": "The-Kinoplex",
+    "added": "2026-10-15"
+  },
+  {
+    "name": "ITBEGINS",
+    "image": "https://cdn.imgchest.com/files/0d4465f57cb6.png",
+    "source": "The-Kinoplex",
+    "added": "2026-10-15"
+  },
+  {
+    "name": "YoungLiberal",
+    "image": "https://cdn.imgchest.com/files/0cd9a7065753.jpg",
+    "source": "The-Kinoplex",
+    "added": "2026-10-15"
+  },
+  {
+    "name": "YujiroSmug",
+    "image": "https://cdn.imgchest.com/files/f46e44bdf943.png",
+    "source": "The-Kinoplex",
+    "added": "2026-10-15"
+  },
+  {
+    "name": "YeahGigga",
+    "image": "https://cdn.imgchest.com/files/0bfcfc84beb4.jpg",
+    "source": "The-Kinoplex",
+    "added": "2026-10-15"
+  },
+  {
+    "name": "TrumpConfused",
+    "image": "https://cdn.imgchest.com/files/d774b26c5c32.gif",
+    "source": "The-Kinoplex",
+    "added": "2026-10-15"
+  },
+  {
+    "name": "CatCry",
+    "image": "https://cdn.imgchest.com/files/9d2a42a65857.jpg",
+    "source": "The-Kinoplex",
+    "added": "2026-10-15"
+  },
+  {
     "name": "UltramanSmile",
     "image": "https://cdn.imgchest.com/files/j7kzc5p6lw7.webp",
     "source": "Kinoplex-After-Dark",
@@ -37498,5 +37558,11 @@
     "image": "https://cdn.imgchest.com/files/de66a5195e0f.webp",
     "source": "Holyplex",
     "added": null
+  },
+  {
+    "name": "TEST",
+    "image": "https://cdn.imgchest.com/files/4bdffed15e98.jpg",
+    "source": "Holyplex",
+    "added": "2026-10-15"
   }
 ]
